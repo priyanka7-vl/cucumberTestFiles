@@ -1,0 +1,19 @@
+{
+  "name": "cucumbertestfiles",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "priyanka",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "chromedriver": "^79.0.3",
+    "cucumber": "^6.0.5"
+  },
+  "dependencies": {
+    "assert": "^2.0.0"
+  }
+}
