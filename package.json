@@ -4,18 +4,15 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "cucumber-js"
   },
   "author": "priyanka",
   "license": "ISC",
   "devDependencies": {
     "chai": "^4.2.0",
-<<<<<<< HEAD
     "chromedriver": "^80.0.1",
-=======
-    "chromedriver": "^79.0.3",
->>>>>>> 343328042355d8b93187f603e05839d2223e8ff0
-    "cucumber": "^6.0.5"
+    "cucumber": "^6.0.5",
+    "selenium-webdriver": "^4.0.0-alpha.7"
   },
   "dependencies": {
     "assert": "^2.0.0"
